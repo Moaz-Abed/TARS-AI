@@ -4,18 +4,6 @@
     <a href="https://discord.gg/AmE2Gv9EUt">
       <img alt="Discord Invitation Link" src="https://img.shields.io/discord/1311295890182508605" align="center" />
     </a>
-    <a href="https://www.youtube.com/@TARS-AI.py.youtube">
-        <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" align="center" />
-    </a>
-    <a href="https://www.instagram.com/tars_ai.py">
-        <img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" align="center" />
-    </a>
-    <a href="https://www.tiktok.com/@tars.ai.py">
-        <img src="https://img.shields.io/badge/TikTok-black?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" align="center" />   
-    </a>
-    <a href="https://github.com/TARS-AI-Community/TARS-AI/wiki/Home">
-        <img src="https://img.shields.io/badge/Docs-grey?style=flat-square&logo=readthedocs&logoColor=white" alt="Documentation" align="center" />
-    </a>
 </p>
 
 <p align="center">
@@ -77,4 +65,5 @@ Please follow the attribution guidelines when sharing or publishing derivative w
 👉 [ATTRIBUTION.md](./ATTRIBUTION.md)
 
 ---
+
 
